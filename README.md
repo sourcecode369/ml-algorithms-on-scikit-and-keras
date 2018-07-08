@@ -6,7 +6,7 @@
 1. > Numpy, Pandas, Matplotlib Tutorials Pdf's and implementation in Notebook files .
 
 2. Supervised Learning
-        1. > Regression Algorithms
+   * 1. > Regression Algorithms
              * Linear Regression
              * Multivariate Linear Regression
              * Polynomial Regression
@@ -14,7 +14,7 @@
              * Decision Trees
              * Random Forest
              * Evaluating Regression Models using Regularization
-        2. > Classification Algorithms
+    * 2. > Classification Algorithms
              * Logistic Regression
              * K-Nearest Neighbour
              * Support Vector Machines
