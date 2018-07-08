@@ -5,7 +5,7 @@
 
 1. > Numpy, Pandas, Matplotlib Tutorials Pdf's and implementation in Notebook files .
 
-2. > Supervised Learning
+2. > Supervised Learning Algorithms
     * 1. > Regression Algorithms
           * Linear Regression
           * Multivariate Linear Regression
@@ -23,10 +23,14 @@
            * Decision Trees
            * Random Forest
            * Evaluating Classification Models
+3. > Unsupervised Learning Algorithms
+     * 1. > Clustering Algorithms
+            * 1. K-Means Clustering
+            * 2. Heirarchical Clustering
+     * 2. > Association Rule Learning
+            * 1. Frequent Itemset Mining / Apriori
+            * 2. Eclat
 4. > 
-5.
-6.
-7.
 8.
 9.
 10.
