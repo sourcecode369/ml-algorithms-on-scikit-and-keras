@@ -35,15 +35,15 @@
          * UCB (Upper Confidence Bound)
          * Thompson Sampling
 5. > Natural Language Processing
-     * > Simple Sentiment Analysis using NLTK
+     * Simple Sentiment Analysis using NLTK
 6. > Deep Learning
-     * > Simple Artificial Neural Networks using Keras
-     * > Convolutional Neural Networks using Keras
+     * Simple Artificial Neural Networks using Keras
+     * Convolutional Neural Networks using Keras
 7. > Dimensionality Reduction 
-     * > t-SNE
-     * > Principal Component Analysis (PCA)
-     * > Linear Discriminant Analysis (LDA)
-     * > Kernel Pricipal Component Analysis
+     * t-SNE
+     * Principal Component Analysis (PCA)
+     * Linear Discriminant Analysis (LDA)
+     * Kernel Pricipal Component Analysis
 8. > Model selection, Bagging and Boosting
      * Grid Search
      * K-Fold cross validation
