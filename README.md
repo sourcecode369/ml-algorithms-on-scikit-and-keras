@@ -25,12 +25,15 @@
            * Evaluating Classification Models
 3. > Unsupervised Learning Algorithms
      * 1. > Clustering Algorithms
-            * 1. K-Means Clustering
-            * 2. Heirarchical Clustering
+            * K-Means Clustering
+            * Heirarchical Clustering
      * 2. > Association Rule Learning
-            * 1. Frequent Itemset Mining / Apriori
-            * 2. Eclat
-4. > 
+            * Frequent Itemset Mining / Apriori
+            * Eclat
+4. > Reinforcement Learning 
+     * > Multi-Armed Bandit
+         * UCB (Upper Confidence Bound)
+         * Thompson Sampling
 8.
 9.
 10.
