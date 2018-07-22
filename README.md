@@ -40,7 +40,7 @@
      * Simple Artificial Neural Networks using Keras
      * Convolutional Neural Networks using Keras
 7. > Dimensionality Reduction 
-     * t-SNE
+     * t-SNE (Implemented in Section - 1 : Numpy, Pandas, Matplotlib and others.ipynb)
      * Principal Component Analysis (PCA)
      * Linear Discriminant Analysis (LDA)
      * Kernel Pricipal Component Analysis
